@@ -5,3 +5,7 @@
 
 ## More advanced reading
 [Writing a Readme](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+
+## Advice for Structuring a Paper
+[The 5 pivotal paragraphs in a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper)
+
