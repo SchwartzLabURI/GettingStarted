@@ -19,7 +19,7 @@ cd <MY_DATA_FOLDER>
 
 #### 4) Create an empty download script script
 ```
-vim <MY_SCRIPT_NAME>
+nano <MY_SCRIPT_NAME>
 ```
 **Note:** Remember to use descriptive file names, even for download scripts
 
