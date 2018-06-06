@@ -14,5 +14,5 @@
 
 
 ## Repos and software
-[Software Carpentry git lesson](http://swcarpentry.github.io/git-novice/)
+[Software Carpentry git lesson](http://swcarpentry.github.io/git-novice/)  
 [Writing a Readme](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
