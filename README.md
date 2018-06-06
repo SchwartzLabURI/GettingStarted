@@ -1,6 +1,7 @@
 # Working in the Schwartz lab
 
 ## Lab practice
+[Data Carpentry Genomics Lesson](http://www.datacarpentry.org/genomics-workshop/)  
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)  
 [Downloading on bluewaves](./Downloading_on_BlueWaves.md)  
 [Running SISRS](./SISRS)
@@ -13,4 +14,5 @@
 
 
 ## Repos and software
+[Software Carpentry git lesson](http://swcarpentry.github.io/git-novice/)
 [Writing a Readme](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
