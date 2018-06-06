@@ -2,7 +2,7 @@
 
 ## Lab practice
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)  
-[Downloading on bluewaves](./Downloading_on_BlueWaves)  
+[Downloading on bluewaves](./Downloading_on_BlueWaves.md)  
 [Running SISRS](./SISRS)
 
 
